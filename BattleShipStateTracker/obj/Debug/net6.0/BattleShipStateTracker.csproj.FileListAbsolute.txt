@@ -1,0 +1,17 @@
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.csproj.AssemblyReference.cache
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.AssemblyInfoInputs.cache
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.AssemblyInfo.cs
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.csproj.CoreCompileInputs.cache
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\bin\Debug\net6.0\BattleShipStateTracker.exe
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\bin\Debug\net6.0\BattleShipStateTracker.deps.json
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\bin\Debug\net6.0\BattleShipStateTracker.runtimeconfig.json
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\bin\Debug\net6.0\BattleShipStateTracker.dll
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\bin\Debug\net6.0\BattleShipStateTracker.pdb
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.dll
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\refint\BattleShipStateTracker.dll
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.pdb
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.genruntimeconfig.cache
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\ref\BattleShipStateTracker.dll
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.Properties.Resources.resources
+C:\Users\paulp\source\repos\BattleShipStateTracker\BattleShipStateTracker\obj\Debug\net6.0\BattleShipStateTracker.csproj.GenerateResource.cache
